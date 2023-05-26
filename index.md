@@ -12,7 +12,7 @@ My name is Ming Senn Teo! I'm currently an undergraduate Data Science major at U
 
 Unfortunately, I cannot publish the source code for academic projects on the internet. If interested in learning more, please contact me.
 
-**DATA 8: Foundations of Data Science**[**Fall 2022**](http://data8.org/fa22)
+**DATA 8: Foundations of Data Science** [**Fall 2022**](http://data8.org/fa22)
 
 
 **DATA 100: Principles and Techniques of Data Science** [**Spring 2023**](https://ds100.org/sp23/)
