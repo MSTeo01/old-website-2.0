@@ -28,9 +28,9 @@ show_excerpts: false
 excerpt_word_count: 70
 
 # long date: April 20, 1969
-long_date: false
+long_date: true
 # short date: Apr ‘69
-short_date: true
+short_date: false
 
 #
 #
