@@ -1,29 +1,21 @@
 ---
 ---
 
-## 🤷 What I do
+## 👋 About me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+My name is Ming Senn Teo! I'm currently an undergraduate Data Science major at UC Berkeley! I dedicate my time to utilizing foundational techniques of Data Science to explore the impacts of climate change, learning about the price-setting process of hospital system and making it transparent to the public.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Feel free to email me at <a href="mailto:mingsennteo@berkeley.edu">mingsennteo@berkeley.edu</a> or check out my [resume](https://docs.google.com/document/d/1laZB935c4CFHYRffg4BDmahkLzfhLBQLzCIWJ81t824/edit?usp=sharing) 
 
-## 🦕 What I've done before
 
-Purus non enim praesent elementum facilisis. In aliquam sem fringilla ut. Hac habitasse platea dictumst vestibulum rhoncus est. Ut porttitor leo a diam sollicitudin.
+## 🐼 Class Projects
 
-Amet commodo nulla facilisi nullam vehicula ipsum a arcu. Venenatis urna cursus eget nunc. Dui accumsan sit amet nulla facilisi morbi tempus. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Sem viverra aliquet eget sit amet tellus cras.
+Unfortunately, I cannot publish the source code for academic projects on the internet. If interested in learning more, please contact me.
 
-Sit amet tellus cras adipiscing enim eu turpis egestas pretium. Ipsum faucibus vitae aliquet nec. Ac auctor augue mauris augue neque gravida. Neque egestas congue quisque egestas.
+**DATA 8: Foundations of Data Science [**Fall 2022**](http://data8.org/fa22)
 
-## 👋🏻 Say hi
 
-Wanna chat? Feel free to reach out!
+**DATA 100: Principles and Techniques of Data Science [**Spring 2023**](https://ds100.org/sp23/)
 
-- Source code: [@katmh/point-theme](http://github.com/katmh/point-theme)
-- [Issues](https://github.com/katmh/point-theme/issues)
 
-## 📠 Fun facts
-
-- You can customize link colors, container width, and fonts in `styles/styles.scss`
-- This theme has built-in options for 2 different date formats: "November 12, 2018" and "Nov '18"
-- Be sure to look through the config file to change the site title, description, homepage greeting, and more
+**CS 61B: Data Structures [**Fall 2022**](https://fa22.datastructur.es/)
