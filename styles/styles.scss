@@ -1,11 +1,11 @@
 ---
 ---
 
-$accent-color: #b00; // link color
+$accent-color: #0066cc; // link color
 $font-stack: system-ui, Helvetica, Arial, sans-serif;
 $heading-font-stack: system-ui, Helvetica, Arial, sans-serif; // use this to set a different font for your headings if you want
 $code-font-stack: Inconsolata, monospace; // fonts for inline code and code blocks
-$container-max-width: 700px;
+$container-max-width: 800px;
 
 // reset
 * {
@@ -94,7 +94,8 @@ a {
 
 a:hover,
 a:active {
-  color: lighten($accent-color, 10%);
+  color: lighten($accent-color, 5%);
+  text-decoration: underline;
 }
 
 // images
@@ -103,9 +104,9 @@ img {
 }
 
 .avatar {
-  width: 7rem;
-  height: 7rem;
-  border-radius: 4rem;
+  width: 8rem;
+  height: 8rem;
+  border-radius: 5rem;
   margin-right: 1.5rem;
 }
 
