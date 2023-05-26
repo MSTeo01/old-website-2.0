@@ -4,7 +4,6 @@
 $accent-color: #0066cc; // link color
 $font-stack: system-ui, Helvetica, Arial, sans-serif;
 $heading-font-stack: system-ui, Helvetica, Arial, sans-serif; // use this to set a different font for your headings if you want
-$code-font-stack: Inconsolata, monospace; // fonts for inline code and code blocks
 $container-max-width: 800px;
 
 // reset
@@ -41,11 +40,25 @@ nav a {
 }
 
 // typography: heading
-h1,
-h2,
+h1 {
+  color: #333;
+  font-family: $heading-font-stack;
+  font-weight: 800;
+}
+h2 {
+  color: #333;
+  font-family: $heading-font-stack;
+  font-weight: 300;
+}
 h3 {
   color: #333;
   font-family: $heading-font-stack;
+  font-weight: 300;
+}
+h4 {
+  color: #333;
+  font-family: $heading-font-stack;
+  font-weight: 300;
 }
 
 h1 {
@@ -54,9 +67,9 @@ h1 {
 }
 
 .global-title {
-  font-size: 3rem;
-  color: #222;
-}
+  font-size: 2.25rem;
+  color: #333;
+
 
 h2 {
   font-size: 1.8rem;
@@ -90,6 +103,7 @@ li:first-child {
 
 a {
   color: $accent-color;
+  text-decoration: none;
 }
 
 a:hover,
@@ -152,11 +166,4 @@ img {
 .timestamp-block {
   display: block;
   margin-top: 0.75rem;
-}
-
-code {
-  background: #ddd;
-  padding: 3px 5px;
-  border-radius: 2px;
-  font-family: $code-font-stack;
 }
