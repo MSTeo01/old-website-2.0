@@ -21,7 +21,7 @@ nav-links:
 # for the homepage image + big text next to it
 greeting_image: /assets/me-2022.jpg
 # 100-200 characters recommended
-greeting_text: Test! PLEASE WORK!!!!
+# greeting_text: 
 
 # show blog post excerpts on blog page
 show_excerpts: false
