@@ -3,7 +3,7 @@
 
 ## 👋 About me
 
-My name is Ming Senn Teo! I'm currently an undergraduate Data Science major at **UC Berkeley**! I dedicate my time to utilizing foundational techniques of Data Science to explore the impacts of climate change, learning about the price-setting process of hospital system and making it transparent to the public.
+Hey! I'm Ming, a current undergrad student at **UC Berkeley** going for a major in Data Science! I dedicate my time to utilizing foundational techniques of Data Science to explore the impacts of climate change, learning about the price-setting process of hospital system and making it transparent to the public.
 
 I'm originally from Malacca, Malaysia 🇲🇾.
 
