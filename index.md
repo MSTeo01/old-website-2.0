@@ -14,10 +14,13 @@ I'm originally from Malacca, Malaysia 🇲🇾.
 
 Unfortunately, I cannot publish the source code for academic projects on the internet. If interested in learning more, please contact me.
 
+<sub><b>Abbreviations:</b></sub> <sub>ML Machine Learning - AI Artificial Intelligence - SWE Software Engineering and Optimization</sub>
+
 **DATA 8: Foundations of Data Science** [**Fall 2022**](http://data8.org/fa22)
 
 
 **DATA 100: Principles and Techniques of Data Science** [**Spring 2023**](https://ds100.org/sp23/)
-
+[ML] Housing Sales Predictor
+[ML] Spam Classifier 
 
 **CS 61B: Data Structures** [**Fall 2022**](https://fa22.datastructur.es/)
