@@ -9,7 +9,6 @@ I'm originally from Malacca, Malaysia 🇲🇾.
 
 **Feel free to email me at <a href="mailto:mingsennteo@berkeley.edu">mingsennteo@berkeley.edu</a> or check out my [resume](https://docs.google.com/document/d/1laZB935c4CFHYRffg4BDmahkLzfhLBQLzCIWJ81t824/edit?usp=sharing).**
 
-
 ## 🐼 Class Projects
 
 Unfortunately, I cannot publish the source code for academic projects on the internet. If interested in learning more, please contact me.
@@ -21,7 +20,7 @@ Unfortunately, I cannot publish the source code for academic projects on the int
 - [EDA] Climate Change Analysis<br>
 
 **DATA 100: Principles and Techniques of Data Science** [**Spring 2023**](https://ds100.org/sp23/)<br>
-- [ML] Housing Sales Predictor<br>
+- [ML] Housing Sales Price Predictor<br>
 - [ML] Spam Classifier 
 
 **CS 61B: Data Structures** [**Fall 2022**](https://fa22.datastructur.es/)<br>
