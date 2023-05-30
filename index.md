@@ -13,10 +13,10 @@ I'm originally from Malacca, Malaysia 🇲🇾.
 
 I'm honored and lucky to be able to teach the field I love(Data Science) in Berkeley. Being part of this teaching community allowed me to interact with more fellow enthusiasts and it gives me so much joy and excitement.
 
-**DATA 8: Foundations of Data Science
+**DATA 8: Foundations of Data Science**
 - Academic Intern: Spring 2023
 
-**DATA C88C: Computational Structures in Data Science
+**DATA C88C: Computational Structures in Data Science**
 - Academic Intern: Spring 2023
 
 ## 🐼 Class Projects
