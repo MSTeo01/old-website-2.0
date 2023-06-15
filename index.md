@@ -23,7 +23,7 @@ I'm honored and lucky to be able to teach the field I love(Data Science) in Berk
 
 Unfortunately, I cannot publish the source code for academic projects on the internet. If interested in learning more, please contact me.
 
-<sub><b>Abbreviations:</b></sub> <sub>ML Machine Learning - EDA Exploratory Data Analysis - SWE Software Engineering and Optimization</sub>
+<sub><b>Abbreviations:</b></sub> <sub>ML (Machine Learning) - EDA (Exploratory Data Analysis) - SWE (Software Engineering and Optimization)</sub>
 
 **DATA 8: Foundations of Data Science** ([**Fall 2022**](http://data8.org/fa22))<br>
 - [ML] Movie Genre Classifier<br>
