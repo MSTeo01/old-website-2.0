@@ -9,16 +9,10 @@ I'm originally from Malacca, Malaysia 🇲🇾.
 
 **Feel free to email me at <a href="mailto:mingsennteo@berkeley.edu">mingsennteo@berkeley.edu</a> or check out my [resume](https://docs.google.com/document/d/1laZB935c4CFHYRffg4BDmahkLzfhLBQLzCIWJ81t824/edit?usp=sharing).**
 
-## 🧑‍🏫 Teaching
+## 📈 Personal Projects
 
-I'm honored and lucky to be able to teach the field I love(Data Science) in Berkeley. Being part of this teaching community allowed me to interact with more fellow enthusiasts and it gives me so much joy and excitement.
-
-**DATA 8: Foundations of Data Science**
-- Academic Intern: Spring 2023
-
-**DATA C88C: Computational Structures in Data Science**
-- Academic Intern: Spring 2023
-
+- [Bank Marketing Database Design]()
+  
 ## 🐼 Class Projects
 
 Unfortunately, I cannot publish the source code for academic projects on the internet. If interested in learning more, please contact me.
@@ -35,3 +29,13 @@ Unfortunately, I cannot publish the source code for academic projects on the int
 
 **CS 61B: Data Structures** ([**Fall 2022**](https://fa22.datastructur.es/))<br>
 - [SWE] Build Your Own World<br>
+
+## 🧑‍🏫 Teaching
+
+I'm honored and lucky to be able to teach the field I love(Data Science) in Berkeley. Being part of this teaching community allowed me to interact with more fellow enthusiasts and it gives me so much joy and excitement.
+
+**DATA 8: Foundations of Data Science**
+- Academic Intern: Spring 2023
+
+**DATA C88C: Computational Structures in Data Science**
+- Academic Intern: Spring 2023
