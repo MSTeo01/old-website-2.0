@@ -11,7 +11,7 @@ I'm originally from Malacca, Malaysia 🇲🇾.
 
 ## 📈 Personal Projects
 
-- [Bank Marketing Database Design]()
+- [Bank Marketing Database Design](https://github.com/MSTeo01/Bank-Marketing-Database-Design)
   
 ## 🐼 Class Projects
 
