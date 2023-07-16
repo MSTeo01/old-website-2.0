@@ -1,7 +1,21 @@
 ---
-title: About
 ---
 
-Gravida cum sociis natoque penatibus et magnis. Tempus egestas sed sed risus pretium. Lobortis scelerisque fermentum dui faucibus in ornare quam viverra orci. Donec enim diam vulputate ut pharetra sit. Odio ut sem nulla pharetra. Libero enim sed faucibus turpis in eu.
+## 📚 Coursework
 
-A erat nam at lectus urna duis. Facilisis leo vel fringilla est. Ut tortor pretium viverra suspendisse potenti nullam ac. Eget magna fermentum iaculis eu non. Aliquam vestibulum morbi blandit cursus risus at ultrices mi.
+### Data Science
+- [Data Engineering (DATA 101)](https://www.data101.org/fa23)
+- [Probability For Data Science (DATA 140)](http://prob140.org/)
+- [Principles & Techniques of Data Science (DATA 100)](https://ds100.org/sp23/)
+- [Computational Structures in Data Science (DATA C88C)](https://c88c.org/fa22/)
+- [Foundations of Data Science (DATA 8)](http://www.data8.org/fa22/)
+
+### Computer Science
+- [Data Structures and Algorithms (CS 61B)](https://fa22.datastructur.es/)
+
+### Mathematics (took at De Anza)
+- Discrete Mathematics (MATH 55)
+- Linear Algebra and Differential Equations (MATH 54)
+- Multivariable Calculus (MATH 53)
+- Calculus II (MATH 1B)
+- Calculus I (MATH 1A)
