@@ -17,6 +17,12 @@ nav-links:
   - name: Home
     url: /
     external: false
+  - name: Academics
+    url: /academics
+    external: false
+  - name: Projects
+    url: /projects
+    external: false
 
 # for the homepage image + big text next to it
 greeting_image: /assets/me-2022.jpg
