@@ -20,5 +20,9 @@ Unfortunately, I cannot publish the source code for academic projects on the int
 - [ML] Housing Sales Price Predictor<br>
 - [ML] Spam Classifier 
 
+**DATA C88C: Computational Structures in Data Science** ([**Fall 2022**](https://c88c.org/fa22/))<br>
+- [ML] [Maps](https://c88c.org/fa22/proj/maps/)
+- [SWE] [Ants vs. SomeBees](https://c88c.org/fa22/proj/ants/)
+  
 **CS 61B: Data Structures** ([**Fall 2022**](https://fa22.datastructur.es/))<br>
-- [SWE] Build Your Own World<br>
+- [SWE] [Build Your Own World](https://fa22.datastructur.es/materials/proj/proj3/)<br>
