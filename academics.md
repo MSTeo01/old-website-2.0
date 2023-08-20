@@ -10,6 +10,9 @@
 - [Computational Structures in Data Science (DATA C88C)](https://c88c.org/fa22/)
 - [Foundations of Data Science (DATA 8)](http://www.data8.org/fa22/)
 
+### Industrial Engineering
+- [Industrial and Commercial Data Systems (IND ENG 115)](https://classes.berkeley.edu/content/2023-fall-indeng-115-001-lec-001)
+
 ### Computer Science
 - [Data Structures and Algorithms (CS 61B)](https://fa22.datastructur.es/)
 
