@@ -4,11 +4,11 @@
 ## 📈 Personal Projects
 
 - [Bank Marketing Database Design](https://github.com/MSTeo01/Bank-Marketing-Database-Design)
-- [California Covid Environmental Impact]() [TBD]
+- [California Covid Environmental Impact](https://github.com/MSTeo01/California-Covid-Environment-Impact)
   
 ## 🐼 Class Projects
 
-Unfortunately, I cannot publish the source code for academic projects on the internet. If interested in learning more, please contact me.
+Unfortunately, I cannot publish the source code for academic projects on the Internet. If interested in learning more, please contact me.
 
 <sub><b>Abbreviations:</b></sub> <sub>ML (Machine Learning) - EDA (Exploratory Data Analysis) - SWE (Software Engineering and Optimization)</sub>
 
