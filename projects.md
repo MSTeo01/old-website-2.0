@@ -10,15 +10,20 @@
 
 Unfortunately, I cannot publish the source code for academic projects on the Internet. If interested in learning more, please contact me.
 
-<sub><b>Abbreviations:</b></sub> <sub>ML (Machine Learning) - EDA (Exploratory Data Analysis) - SWE (Software Engineering and Optimization)</sub>
+<sub><b>Abbreviations:</b></sub> <sub>ML (Machine Learning) - EDA (Exploratory Data Analysis) - SWE (Software Engineering and Optimization) - DB (Database)</sub>
+
+**DATA 101: Data Engineering** ([**Fall 2023**](https://fa23.data101.org/))<br>
+- [DB] Query Optimization (PostgreSQL)<br>
+- [DB] Data Transformation (PostgreSQL)<br>
+- [DB] MongoDB<br>
+
+**DATA 100: Principles and Techniques of Data Science** ([**Spring 2023**](https://ds100.org/sp23/))<br>
+- [ML] Housing Sales Price Predictor<br>
+- [ML] Spam Classifier
 
 **DATA 8: Foundations of Data Science** ([**Fall 2022**](http://data8.org/fa22))<br>
 - [ML] Movie Genre Classifier<br>
 - [EDA] Climate Change Analysis<br>
-
-**DATA 100: Principles and Techniques of Data Science** ([**Spring 2023**](https://ds100.org/sp23/))<br>
-- [ML] Housing Sales Price Predictor<br>
-- [ML] Spam Classifier 
 
 **DATA C88C: Computational Structures in Data Science** ([**Fall 2022**](https://c88c.org/fa22/))<br>
 - [ML] [Maps](https://c88c.org/fa22/proj/maps/)
