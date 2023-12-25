@@ -19,7 +19,7 @@
 - Econometrics (ECON 140)
 - [Data Science for Economists (ECON 148)](https://www.econ148.org/sp24/)
 
-### Mathematics (took at De Anza)
+### Mathematics (De Anza)
 - Discrete Mathematics (MATH 55)
 - Linear Algebra and Differential Equations (MATH 54)
 - Multivariable Calculus (MATH 53)
