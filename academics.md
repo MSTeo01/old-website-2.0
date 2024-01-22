@@ -5,7 +5,7 @@
 
 ### Data Science
 - Data Mining and Analytics (DATA 144)
-- [Data, Inference, and Decisions (DATA 102)](https://data102.org/)
+- [Data, Inference, and Decisions (DATA 102)](https://data102.org/sp24/)
 - [Data Engineering (DATA 101)](https://www.data101.org/fa23)
 - [Probability For Data Science (DATA 140)](http://prob140.org/)
 - [Principles & Techniques of Data Science (DATA 100)](https://ds100.org/sp23/)
