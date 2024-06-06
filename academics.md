@@ -5,6 +5,7 @@
 
 ### Data Science
 - Data Mining and Analytics (DATA 144)
+- Human Contexts and Ethics of Data (DATA C104)
 - [Data, Inference, and Decisions (DATA 102)](https://data102.org/sp24/)
 - [Data Engineering (DATA 101)](https://www.data101.org/fa23)
 - [Probability For Data Science (DATA 140)](http://prob140.org/)
@@ -16,6 +17,7 @@
 - [Data Structures and Algorithms (CS 61B)](https://fa22.datastructur.es/)
 
 ### Economics
+- Microeconomics (ECON 100A)
 - Econometrics (ECON 140)
 - [Data Science for Economists (ECON 148)](https://www.econ148.org/sp24/)
 
