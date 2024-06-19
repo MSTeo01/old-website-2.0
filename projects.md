@@ -20,7 +20,7 @@ ML (Machine Learning) - EDA (Exploratory Data Analysis) - SWE (Software Engineer
 
 
 **DATA 144: Data Mining and Analytics** ([**Fall 2023**])
-1. Traffic Accident Duration Predictor
+1. Traffic Accident Delay Prediction
    - Analyzed accident patterns in the US Traffic Accidents through EDA and built a classifier that predicts the level of delays that an accident caused.
 
 **DATA 101: Data Engineering** ([**Fall 2023**](https://fa23.data101.org/))
