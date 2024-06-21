@@ -22,7 +22,6 @@ ML (Machine Learning) - EDA (Exploratory Data Analysis) - SWE (Software Engineer
 1. An Investigation into the Causality of Arkansas Speed Limit Increase on Traffic Accidents and the Effect of Road Conditions on Traffic Accident Duration
    - [Report](https://msteo.org/assets/data102.pdf)
 
-
 **DATA 144: Data Mining and Analytics** ([**Fall 2023**])
 1. Traffic Accident Delay Prediction
    - Analyzed accident patterns in the US Traffic Accidents through EDA and built a classifier that predicts the level of delays that an accident caused.
