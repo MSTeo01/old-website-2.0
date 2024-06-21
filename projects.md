@@ -8,11 +8,15 @@
   
 ## 🐼 Class Projects
 
-Unfortunately, I cannot publish the source code for academic projects on the Internet. If interested in learning more, please contact me.
+Unfortunately, I cannot publish the source code for academic projects on the Internet (with some exceptions). If interested in learning more, please contact me.
 
 <sub><b>Abbreviations:</b></sub> <sub> <br> 
 ML (Machine Learning) - EDA (Exploratory Data Analysis) - SWE (Software Engineering and Optimization) - DB (Database)</sub>
 
+
+**ECON 148: Data Science for Economists** ([**Spring 2024**](https://www.econ148.org/sp24/))
+1. Ted Miguel's Paper Reproduction
+   - [Github](https://github.com/MSTeo01/Econ-148-Project-3)
 
 **DATA 102: Data, Inference, and Decisions** ([**Spring 2024**](https://data102.org/sp24/))
 1. An Investigation into the Causality of Arkansas Speed Limit Increase on Traffic Accidents and the Effect of Road Conditions on Traffic Accident Duration
