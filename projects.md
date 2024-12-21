@@ -15,15 +15,15 @@ ML (Machine Learning) - EDA (Exploratory Data Analysis) - SWE (Software Engineer
 
 
 **ECON 148: Data Science for Economists** ([**Spring 2024**](https://www.econ148.org/sp24/))
-1. [EDA] Ted Miguel's Paper Reproduction
-   - [Github](https://github.com/MSTeo01/Econ-148-Project-3)
+1. [ML] [EDA] Ted Miguel's Paper Reproduction
+   - Reproduced the analysis of a paper by Edward Miguel by translating the original paper's code from Stata to Python (Paper: [Non-economic factors in violence: Evidence from organized crime, suicides and climate in Mexico](https://www.nber.org/system/files/working_papers/w24897/w24897.pdf))
 
 **DATA 102: Data, Inference, and Decisions** ([**Spring 2024**](https://data102.org/sp24/))
 1. [ML] [EDA] An Investigation into the Causality of Arkansas Speed Limit Increase on Traffic Accidents and the Effect of Road Conditions on Traffic Accident Duration
-   - [Report](https://msteo.org/assets/data102.pdf)
+   - Analysis of traffic accident patterns over a period where there's an increase in speed limit for the state of Arkansas, determining the causality behind it
 
 **DATA 144: Data Mining and Analytics** (Fall 2023)
-1. [ML] Traffic Accident Delay Prediction
+1. [ML] [EDA] Traffic Accident Delay Prediction
    - Analyzed accident patterns in the US Traffic Accidents through EDA and built a classifier that predicts the level of delays that an accident caused.
 
 **DATA 101: Data Engineering** ([**Fall 2023**](https://fa23.data101.org/))
