@@ -1,1 +1,1 @@
-personal website - don't worry, it's active!
+changing to new and cleaner style (can't make up my mind lol)
